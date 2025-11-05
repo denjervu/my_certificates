@@ -12,15 +12,15 @@
 
 [Ссылка на информацию о лагере](https://career.t1.ru/debut/camp)
 
-![Сертификат T1](T1_open_school.jpg)
+![Сертификат T1](T1_summer_camp.jpg)
 
 
 # Тестирование ПО. Теория + Практика. Автор: Артем Русов
 [Ссылка на программу подготовки](https://stepik.org/course/171826/syllabus)
 
-![Сертификат Курс Русова](Rusau.png)
+![Сертификат Курс Русова](rusau.png)
 
-# Интенсив «Sandbox Web» Вадима Ксендзова
+# Интенсив «Sandbox Web». Автор: Вадим Ксендзов
 
 Что сделано:
 - Выполнил практические задачи c DevTools  
@@ -30,10 +30,10 @@
 
 ![Сертификат sandbox Web](sandbox_web.png)
 
-# Интенсив «Sandbox Mobile» Вадима Ксендзова
+# Интенсив «Sandbox Mobile». Автор: Вадим Ксендзов
 
 Что сделано: 
-Изучил Guidelines (Human Interface, Material Design)
+- Изучил Guidelines (Human Interface, Material Design)
 - Прокачался в командной работе
 	- Разработал глоссарий в Figma (документ с названиями всех экранов и элементов приложения)
 	- Составил mind-map всех переходов приложения
